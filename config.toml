@@ -1,0 +1,5 @@
+package_name = "requests"
+repo_url = "https://github.com/psf/requests"
+repo_mode = "remote"
+ascii_mode = false
+filter_substring = ""
